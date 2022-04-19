@@ -1,0 +1,4 @@
+colorama
+sublist3r
+rich
+pyfiglet
